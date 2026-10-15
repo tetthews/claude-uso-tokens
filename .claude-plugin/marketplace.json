@@ -1,0 +1,5 @@
+{
+  "name": "claude-uso-tokens",
+  "owner": { "name": "tetthews" },
+  "plugins": [{ "name": "uso-tokens", "source": "./" }]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "uso-tokens",
+  "version": "0.2.0",
+  "description": "Faixa colorida acima do prompt com o uso do limite (5h e semanal) e a previsão de quando acaba, no horário de Brasília",
+  "types": "./types/index.d.ts"
+}
